@@ -1,4 +1,4 @@
-package com.nulldevs.project;
+/*package com.nulldevs.project;
 
 public class Main {
 
@@ -6,3 +6,4 @@ public class Main {
 	// write your code here
     }
 }
+*/

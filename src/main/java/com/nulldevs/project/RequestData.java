@@ -5,7 +5,7 @@ package com.nulldevs.project;
  */
 public class RequestData {
     //parameters to get
-    public static String API = "https://api.etsy.com/v2/listings/active?api_key=";
+    public static String API = "https://openapi.etsy.com/v2/listings/active?api_key=";
     public static String INCLUDE_IMAGE = "&includes=MainImage";
     public static String SEARCH = "&keywords=";
     public static String SORT_ON = "&sort_on=";
